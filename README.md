@@ -1,1 +1,6 @@
 # Hope-Hackathon-
+Newtrition is a API about healthy eating habits. Our mission is to help people with weight loss or gain. We are a simple calorie counter to help people track their calorie intake. The way to loose weight is burn more calories that you intake and vice versa with gaining weight. So with our service it helps you track your food choices and gives you a number of calories you had that day. 
+
+The way you to use our API is put in the food or drink you had that day and then it will tell you how many calories were in it. You do this for everything you had that day and get your total number of calories. 
+
+With obesity being so common in the states we are trying a simple way to keep people aware of what they are eating and drinking. The old way is you had to read the label see how many servings you had and use a calculator to get your answer this took a lot of effort and time. With people getting lazier and relying on technology for basic needs we want to provide a service that makes life easier.
