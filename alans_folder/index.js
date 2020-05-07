@@ -1,13 +1,17 @@
 // Hope Hackathon!
 
+//node modules 
 const request = require("request");
 const express = require('express');
 const edamam = require('edamam-api')
 const app = express()
 const bodyParser = require('body-parser')
+
+// api information
 const appId = "496a5259"
 const apiKey = "3352b31776a846e2569ce37a24e79b30"
 
+//to display the nutrition data
 const { NutritionAnalysisClient } = require('edamam-api');
  
 (async() => {
@@ -20,7 +24,7 @@ const { NutritionAnalysisClient } = require('edamam-api');
 })();
 
 //ejs is a template engine (renders a template turns it into HTML,CSS,and javascript while filling in variables.)
-// app.set('view engine', 'ejs')
+app.set('view engine', 'ejs')
 
 //turning the information from the url and parsing to a json object.
 //middleware function that gets run on every client request.
