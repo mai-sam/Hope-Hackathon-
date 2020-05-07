@@ -1,0 +1,59 @@
+{
+    "food": [
+        {
+            "item": "Chicken Breast",
+            "ounces": 8,
+            "calories": 374
+        },
+        {
+            "item": "Pork Chop",
+            "ounces": 8,
+            "calories": 505
+        },
+        {
+            "item": "Steak",
+            "ounces": 8,
+            "calories": 362
+        },
+        {
+            "item": "Salmon",
+            "ounces": 8,
+            "calories": 255
+        },
+        {
+            "item": "Kale",
+            "ounces": 8,
+            "calories": 112
+        },
+        {
+            "item": "Spinach",
+            "ounces": 8,
+            "calories": 52
+        },
+        {
+            "item": "Milk",
+            "ounces": 8,
+            "calories": 103
+        },
+         {
+            "item": "Celery",
+            "ounces": 8,
+            "calories": 32
+        },
+        {
+            "item": "Yogurt",
+            "ounces": 8,
+            "calories": 100
+        },
+        {
+            "item": "Peanut Butter",
+            "ounces": 8,
+            "calories": 1336
+        },
+        {
+            "item": "Cashews",
+            "ounces": 1256,
+            "calories": 374
+        }
+    ]
+}
